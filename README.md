@@ -1,9 +1,4 @@
 # django-docker
-## Requirements:
-
-  - docker
-  - docker compose
-
 ## Run with:
 
     $ docker-compose up
